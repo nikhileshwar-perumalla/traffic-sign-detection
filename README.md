@@ -17,11 +17,11 @@ Includes variations in lighting, angle, and occlusion to simulate real driving s
 
 **📊 Features**
 
-- **🔧 CNN Model Architecture:**
+- ** CNN Model Architecture:**
        - Layers: Conv2D, MaxPooling2D, Dropout, Flatten, Dense
        - Trained from scratch for classification
 
-- **🔄 MobileNet Transfer Learning:**
+- ** MobileNet Transfer Learning:**
        - Uses pre-trained MobileNet (on ImageNet)
        - Fine-tuned on traffic sign images
        - Faster training and higher accuracy with fewer parameters
